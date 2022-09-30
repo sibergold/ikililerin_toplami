@@ -1,0 +1,15 @@
+C:\Users\OSMAN\ikililerin_toplami\bin\Debug\net6.0\ikililerin_toplami.exe
+C:\Users\OSMAN\ikililerin_toplami\bin\Debug\net6.0\ikililerin_toplami.deps.json
+C:\Users\OSMAN\ikililerin_toplami\bin\Debug\net6.0\ikililerin_toplami.runtimeconfig.json
+C:\Users\OSMAN\ikililerin_toplami\bin\Debug\net6.0\ikililerin_toplami.dll
+C:\Users\OSMAN\ikililerin_toplami\bin\Debug\net6.0\ikililerin_toplami.pdb
+C:\Users\OSMAN\ikililerin_toplami\obj\Debug\net6.0\ikililerin_toplami.csproj.AssemblyReference.cache
+C:\Users\OSMAN\ikililerin_toplami\obj\Debug\net6.0\ikililerin_toplami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSMAN\ikililerin_toplami\obj\Debug\net6.0\ikililerin_toplami.AssemblyInfoInputs.cache
+C:\Users\OSMAN\ikililerin_toplami\obj\Debug\net6.0\ikililerin_toplami.AssemblyInfo.cs
+C:\Users\OSMAN\ikililerin_toplami\obj\Debug\net6.0\ikililerin_toplami.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\ikililerin_toplami\obj\Debug\net6.0\ikililerin_toplami.dll
+C:\Users\OSMAN\ikililerin_toplami\obj\Debug\net6.0\refint\ikililerin_toplami.dll
+C:\Users\OSMAN\ikililerin_toplami\obj\Debug\net6.0\ikililerin_toplami.pdb
+C:\Users\OSMAN\ikililerin_toplami\obj\Debug\net6.0\ikililerin_toplami.genruntimeconfig.cache
+C:\Users\OSMAN\ikililerin_toplami\obj\Debug\net6.0\ref\ikililerin_toplami.dll

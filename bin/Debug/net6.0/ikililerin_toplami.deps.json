@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ikililerin_toplami/1.0.0": {
+        "runtime": {
+          "ikililerin_toplami.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ikililerin_toplami/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
